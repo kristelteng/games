@@ -1,0 +1,29 @@
+section.selections {
+  height: 600px;
+  width: 600px;
+  margin: auto;
+}
+
+.title {
+  text-transform: uppercase;
+  font-size: 100px;
+  text-align: center;
+  line-height: 80%;
+}
+
+.play_rock {
+  margin-right: 50px;
+}
+
+.play_paper {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.play_scissors {
+  margin-left: 50px;
+}
+
+#results, p {
+  text-align: center;
+}
